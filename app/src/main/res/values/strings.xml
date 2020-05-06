@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RFID PeopleTracker</string>
+    <string name="conectar">Conectar</string>
+    <string name="zerar">Zerar</string>
+</resources>
